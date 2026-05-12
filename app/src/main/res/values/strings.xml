@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Flash Printer</string>
+
+    <string name="app_namee">
+        FLASH PRINTER
+    </string>
+
+    <string name="impressora_usar">
+        SELECIONE A IMPRESSORA QUE USARÁ
+    </string>
+
+    <string name="status">
+        CONEXÃO: %1$s
+    </string>
+
+    <string name="conectado_anteriormente">
+        CONECTADOS ANTERIORMENTE
+    </string>
+
+    <string name="nova_conexao">
+        NOVOS DISPOSITIVOS
+    </string>
+
+    <string name="status_bluetooth">
+        BLUETOOTH: %1$s
+    </string>
+
+    <string name="n_a">
+        N/A
+    </string>
+
+</resources>

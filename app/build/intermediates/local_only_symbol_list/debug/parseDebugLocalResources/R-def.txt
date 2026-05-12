@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color white
+drawable borda
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable logo
+id bluetooth
+id lyDevices
+id lyNewDevices
+id main
+id status
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string app_namee
+string conectado_anteriormente
+string impressora_usar
+string n_a
+string nova_conexao
+string status
+string status_bluetooth
+style Base.Theme.GlobalCargoPrinter
+style Theme.FlashPrinter
+xml backup_rules
+xml data_extraction_rules

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#FFE5E5</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Flash Printer</string>
+    <string name="app_namee">
+        FLASH PRINTER
+    </string>
+    <string name="conectado_anteriormente">
+        CONECTADOS ANTERIORMENTE
+    </string>
+    <string name="impressora_usar">
+        SELECIONE A IMPRESSORA QUE USARÁ
+    </string>
+    <string name="n_a">
+        N/A
+    </string>
+    <string name="nova_conexao">
+        NOVOS DISPOSITIVOS
+    </string>
+    <string name="status">
+        CONEXÃO: %1$s
+    </string>
+    <string name="status_bluetooth">
+        BLUETOOTH: %1$s
+    </string>
+    <style name="Theme.FlashPrinter" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">
+            @android:color/transparent
+        </item>
+
+    </style>
+</resources>

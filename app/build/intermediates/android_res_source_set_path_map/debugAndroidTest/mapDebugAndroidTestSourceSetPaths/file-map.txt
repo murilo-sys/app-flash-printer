@@ -1,0 +1,4 @@
+com.example.globalcargoprinter.test.app-updated_navigation_xml-0 C:\Users\murilo.santiago\AndroidStudioProjects\FlashPrinter\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.globalcargoprinter.test.app-packageDebugAndroidTestResources-1 C:\Users\murilo.santiago\AndroidStudioProjects\FlashPrinter\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.example.globalcargoprinter.test.app-packageDebugAndroidTestResources-2 C:\Users\murilo.santiago\AndroidStudioProjects\FlashPrinter\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.example.globalcargoprinter.test.app-debugAndroidTest-3 C:\Users\murilo.santiago\AndroidStudioProjects\FlashPrinter\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
